@@ -5,7 +5,7 @@ I'm a Full Stack Web Developer with a background in communications. Feel free to
 
 #### 🔗 Let's Connect!
 - [**LinkedIn:** @steve-kavuu-8a96611b7](https://www.linkedin.com/in/steve-kavuu-8a96611b7/)
-- [**Portfolio:**](https://sck916.github.io/mywebsite/)
+- [**Portfolio:** My Portfolio](https://sck916.github.io/mywebsite/)
 - [**Email:** mrkavuu@gmail.com](mailto:mrkavuu@gmail.com)
 
 <h4 align="center">
