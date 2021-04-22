@@ -1,7 +1,7 @@
 ### 👋 Hi there!
 I'm a Full Stack Web Developer with a background in communications. Feel free to look around and [reach out](mailto:mrkavuu@gmail.com) with any questions. 
 <br/>
-> *Pronouns: he/him*
+
 
 #### 🔗 Let's Connect!
 - [**LinkedIn:** @steve-kavuu-8a96611b7](https://www.linkedin.com/in/steve-kavuu-8a96611b7/)
@@ -16,8 +16,6 @@ I'm a Full Stack Web Developer with a background in communications. Feel free to
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
