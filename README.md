@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-I'm a Full Stack Web Developer with a background in communications. Feel free to look around and [reach out](mailto:mrkavuu@gmail.com) with any questions. 
+I am a Web Developer with a background in communications. Feel free to look around and [reach out](mailto:mrkavuu@gmail.com) with any questions. 
 <br/>
 
 
