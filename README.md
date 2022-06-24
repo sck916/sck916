@@ -4,7 +4,7 @@ I am a Web Developer with a background in communications. Feel free to look arou
 
 
 #### 🔗 Let's Connect!
-- [**LinkedIn:**](https://www.linkedin.com/in/skavuu/)
+- [**LinkedIn**](https://www.linkedin.com/in/skavuu/)
 
 - [**Email:** mrkavuu@gmail.com](mailto:mrkavuu@gmail.com)
 
