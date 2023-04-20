@@ -1,12 +1,12 @@
 ### 👋 Hi there!
-I am a Web Developer with a background in communications. Feel free to look around and [reach out](mailto:mrkavuu@gmail.com) with any questions. 
+I am a Web Developer with a background in communications. Feel free to look around and [reach out](mailto:k01186718@gmail.com) with any questions. 
 <br/>
 
 
 #### 🔗 Let's Connect!
 - [**LinkedIn**](https://www.linkedin.com/in/skavuu/)
 
-- [**Email:** mrkavuu@gmail.com](mailto:mrkavuu@gmail.com)
+- [**Email:** k01186718@gmail.com](mailto:k01186718@gmail.com)
 
 <h4 align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
